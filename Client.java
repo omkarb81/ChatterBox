@@ -26,7 +26,7 @@ class Client
         System.out.println("Server says :"+str2);
 
        }
-        System.out.println("Thank you lavdya");
+        System.out.println("Thank you");
 
 
    }
